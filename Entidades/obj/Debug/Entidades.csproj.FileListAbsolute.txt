@@ -1,0 +1,5 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\PracticaAdo.Net(23-10)\SistemaMedicos\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\PracticaAdo.Net(23-10)\SistemaMedicos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\PracticaAdo.Net(23-10)\SistemaMedicos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\PracticaAdo.Net(23-10)\SistemaMedicos\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\PracticaAdo.Net(23-10)\SistemaMedicos\Entidades\obj\Debug\Entidades.pdb
